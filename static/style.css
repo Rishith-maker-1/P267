@@ -1,0 +1,16 @@
+
+body{
+    background: #8292fa;
+    text-align: center;
+    color:white;
+}
+input[type=file] {
+    display:inline-block;
+    }
+img {
+    width:70%;
+    }
+.heading{
+    font-weight: bold;
+    font-size:75px;
+    }
